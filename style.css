@@ -1,0 +1,36 @@
+body {
+    min-height: 1100px;
+    font-family: "Poppins", sans-serif;
+    background-image: #F5F7F8;
+    background-repeat: no-repeat;
+    background-size: cover;
+    scroll-behavior: smooth;
+}
+
+.text-beranda {
+    max-width: 400px;
+    min-height: 500px;
+    font-family: Protest Guerrilla;
+}
+
+.img-beranda {
+    border-radius: 100%;
+}
+
+.tentang-saya {
+    min-height: 500px;
+    background-color: #1E201E;
+    font-weight: 600;
+}
+
+.contact {
+    background-color: #F5F7F8;
+    min-height: 300px;
+    font-family:Protest Guerrilla ;;
+}
+
+.footer {
+    min-height: 250px;
+    background-color: black;
+}
+
